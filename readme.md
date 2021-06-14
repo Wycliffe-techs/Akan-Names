@@ -1,5 +1,5 @@
 {Akan Names}
-{A web application.}, {14/06/2021}
+{A web application with a form with which you can search your name.}, {14/06/2021}
 By {Wycliffe Omondi Otieno}
 Description
 {This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender it outputs their Akan Name.  }
