@@ -1,6 +1,7 @@
-.html,body{
-    overflow-x: hidden;
+.body{
+    
     background-image: url("../images/img.jpg");
+    overflow-x: hidden;
     background-repeat: no-repeat;
     background-size: cover;
 }
